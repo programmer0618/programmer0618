@@ -1,2 +1,2 @@
 ### Hi I am a Software Developer. I'm currently learning: <br>
-<strong><code>HTML5</code></strong>
+<strong><code><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F840%2F443%2Fpng-transparent-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text-orange-thumbnail.png&tbnid=oR5TRKLJk6PCMM&vet=12ahUKEwjw5Lel46P-AhWYvyoKHZJ7APEQMygQegUIARDcAQ..i&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3DHTML&docid=h2utVDNogAiYXM&w=360&h=360&q=HTML%20logo&ved=2ahUKEwjw5Lel46P-AhWYvyoKHZJ7APEQMygQegUIARDcAQ"/></code></strong>
