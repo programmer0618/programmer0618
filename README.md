@@ -1,1 +1,1 @@
-Salom mening ismim Olovuddin
+### Hi I am a Software Developer
